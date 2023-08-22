@@ -1,0 +1,28 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 68,
+            "dividendYield": 0,
+            "high": 68,
+            "lastPrice": 68,
+            "lastYearHigh": 93.24,
+            "lastYearLow": 68,
+            "low": 68,
+            "name": "Multi Shoppings Fundo Investimento Imobiliario",
+            "priceOpen": 68,
+            "shares": 1289598,
+            "symbol": "SHOP11",
+            "volume": 13,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2022-03-23T00:00:00Z",
+            "payDate": "2022-03-30T00:00:00Z",
+            "value": 6.75098193
+        }
+    ],
+    "historical_data": []
+}

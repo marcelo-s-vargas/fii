@@ -1,0 +1,313 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "RBGS11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2016-06-30T00:00:00Z",
+            "payDate": "2016-07-14T00:00:00Z",
+            "value": 0.98563447
+        },
+        {
+            "declaredDate": "2016-07-29T00:00:00Z",
+            "payDate": "2016-08-12T00:00:00Z",
+            "value": 0.94062287
+        },
+        {
+            "declaredDate": "2016-08-31T00:00:00Z",
+            "payDate": "2016-09-15T00:00:00Z",
+            "value": 1.03066615
+        },
+        {
+            "declaredDate": "2016-09-30T00:00:00Z",
+            "payDate": "2016-10-17T00:00:00Z",
+            "value": 0.94062287
+        },
+        {
+            "declaredDate": "2016-10-31T00:00:00Z",
+            "payDate": "2016-11-16T00:00:00Z",
+            "value": 0.66948491
+        },
+        {
+            "declaredDate": "2016-11-30T00:00:00Z",
+            "payDate": "2016-12-14T00:00:00Z",
+            "value": 0.14796807
+        },
+        {
+            "declaredDate": "2016-12-29T00:00:00Z",
+            "payDate": "2017-01-13T00:00:00Z",
+            "value": 0.18704298
+        },
+        {
+            "declaredDate": "2017-01-31T00:00:00Z",
+            "payDate": "2017-02-14T00:00:00Z",
+            "value": 0.24098292
+        },
+        {
+            "declaredDate": "2017-02-24T00:00:00Z",
+            "payDate": "2017-03-14T00:00:00Z",
+            "value": 0.44075055
+        },
+        {
+            "declaredDate": "2017-03-31T00:00:00Z",
+            "payDate": "2017-04-17T00:00:00Z",
+            "value": 0.21772363
+        },
+        {
+            "declaredDate": "2017-04-28T00:00:00Z",
+            "payDate": "2017-05-15T00:00:00Z",
+            "value": 0.15308443
+        },
+        {
+            "declaredDate": "2017-05-31T00:00:00Z",
+            "payDate": "2017-06-14T00:00:00Z",
+            "value": 0.17029466
+        },
+        {
+            "declaredDate": "2017-06-30T00:00:00Z",
+            "payDate": "2017-07-14T00:00:00Z",
+            "value": 0.15020443
+        },
+        {
+            "declaredDate": "2017-07-31T00:00:00Z",
+            "payDate": "2017-08-14T00:00:00Z",
+            "value": 0.15522405
+        },
+        {
+            "declaredDate": "2017-08-31T00:00:00Z",
+            "payDate": "2017-09-15T00:00:00Z",
+            "value": 0.11717748
+        },
+        {
+            "declaredDate": "2017-09-29T00:00:00Z",
+            "payDate": "2017-10-16T00:00:00Z",
+            "value": 0.16066889
+        },
+        {
+            "declaredDate": "2017-10-31T00:00:00Z",
+            "payDate": "2017-11-16T00:00:00Z",
+            "value": 0.05280991
+        },
+        {
+            "declaredDate": "2017-11-30T00:00:00Z",
+            "payDate": "2017-12-14T00:00:00Z",
+            "value": 0.15811066
+        },
+        {
+            "declaredDate": "2017-12-28T00:00:00Z",
+            "payDate": "2018-01-15T00:00:00Z",
+            "value": 0.1439742
+        },
+        {
+            "declaredDate": "2018-01-31T00:00:00Z",
+            "payDate": "2018-02-16T00:00:00Z",
+            "value": 0.27377704
+        },
+        {
+            "declaredDate": "2018-02-28T00:00:00Z",
+            "payDate": "2018-03-14T00:00:00Z",
+            "value": 0.42912415
+        },
+        {
+            "declaredDate": "2018-03-29T00:00:00Z",
+            "payDate": "2018-04-13T00:00:00Z",
+            "value": 0.14957751
+        },
+        {
+            "declaredDate": "2018-04-30T00:00:00Z",
+            "payDate": "2018-05-15T00:00:00Z",
+            "value": 0.13706638
+        },
+        {
+            "declaredDate": "2018-05-30T00:00:00Z",
+            "payDate": "2018-06-14T00:00:00Z",
+            "value": 0.1916862
+        },
+        {
+            "declaredDate": "2018-06-29T00:00:00Z",
+            "payDate": "2018-07-13T00:00:00Z",
+            "value": 0.08574442
+        },
+        {
+            "declaredDate": "2018-07-31T00:00:00Z",
+            "payDate": "2018-08-14T00:00:00Z",
+            "value": 0.16923685
+        },
+        {
+            "declaredDate": "2018-08-31T00:00:00Z",
+            "payDate": "2018-09-17T00:00:00Z",
+            "value": 0.12027189
+        },
+        {
+            "declaredDate": "2018-09-28T00:00:00Z",
+            "payDate": "2018-10-15T00:00:00Z",
+            "value": 0.16306049
+        },
+        {
+            "declaredDate": "2018-10-31T00:00:00Z",
+            "payDate": "2018-11-16T00:00:00Z",
+            "value": 0.097646
+        },
+        {
+            "declaredDate": "2018-11-30T00:00:00Z",
+            "payDate": "2018-12-14T00:00:00Z",
+            "value": 0.09855198
+        },
+        {
+            "declaredDate": "2018-12-28T00:00:00Z",
+            "payDate": "2019-01-15T00:00:00Z",
+            "value": 0.1420288
+        },
+        {
+            "declaredDate": "2019-01-31T00:00:00Z",
+            "payDate": "2019-02-14T00:00:00Z",
+            "value": 0.18378121
+        },
+        {
+            "declaredDate": "2019-02-28T00:00:00Z",
+            "payDate": "2019-03-18T00:00:00Z",
+            "value": 0.41041597
+        },
+        {
+            "declaredDate": "2019-03-29T00:00:00Z",
+            "payDate": "2019-04-12T00:00:00Z",
+            "value": 0.17505776
+        },
+        {
+            "declaredDate": "2019-04-30T00:00:00Z",
+            "payDate": "2019-05-16T00:00:00Z",
+            "value": 0.10255548
+        },
+        {
+            "declaredDate": "2019-05-31T00:00:00Z",
+            "payDate": "2019-06-14T00:00:00Z",
+            "value": 0.14271775
+        },
+        {
+            "declaredDate": "2019-06-28T00:00:00Z",
+            "payDate": "2019-07-15T00:00:00Z",
+            "value": 0.21163251
+        },
+        {
+            "declaredDate": "2019-07-31T00:00:00Z",
+            "payDate": "2019-08-14T00:00:00Z",
+            "value": 0.22499706
+        },
+        {
+            "declaredDate": "2019-08-30T00:00:00Z",
+            "payDate": "2019-09-13T00:00:00Z",
+            "value": 0.25951303
+        },
+        {
+            "declaredDate": "2019-09-30T00:00:00Z",
+            "payDate": "2019-10-14T00:00:00Z",
+            "value": 0.25830214
+        },
+        {
+            "declaredDate": "2019-10-31T00:00:00Z",
+            "payDate": "2019-11-14T00:00:00Z",
+            "value": 0.22739157
+        },
+        {
+            "declaredDate": "2019-11-29T00:00:00Z",
+            "payDate": "2019-12-13T00:00:00Z",
+            "value": 0.28200545
+        },
+        {
+            "declaredDate": "2019-12-30T00:00:00Z",
+            "payDate": "2020-01-15T00:00:00Z",
+            "value": 0.30930864
+        },
+        {
+            "declaredDate": "2020-01-31T00:00:00Z",
+            "payDate": "2020-02-14T00:00:00Z",
+            "value": 0.36629955
+        },
+        {
+            "declaredDate": "2020-02-28T00:00:00Z",
+            "payDate": "2020-03-13T00:00:00Z",
+            "value": 0.52969692
+        },
+        {
+            "declaredDate": "2020-06-30T00:00:00Z",
+            "payDate": "2020-07-14T00:00:00Z",
+            "value": 0.04908054
+        },
+        {
+            "declaredDate": "2020-12-30T00:00:00Z",
+            "payDate": "2021-01-15T00:00:00Z",
+            "value": 0.43152795
+        },
+        {
+            "declaredDate": "2021-01-29T00:00:00Z",
+            "payDate": "2021-02-12T00:00:00Z",
+            "value": 0.39966076
+        },
+        {
+            "declaredDate": "2021-02-26T00:00:00Z",
+            "payDate": "2021-03-12T00:00:00Z",
+            "value": 0.28317694
+        },
+        {
+            "declaredDate": "2021-04-30T00:00:00Z",
+            "payDate": "2021-05-14T00:00:00Z",
+            "value": 0.08
+        },
+        {
+            "declaredDate": "2021-05-31T00:00:00Z",
+            "payDate": "2021-06-15T00:00:00Z",
+            "value": 0.02392484
+        },
+        {
+            "declaredDate": "2021-06-30T00:00:00Z",
+            "payDate": "2021-07-14T00:00:00Z",
+            "value": 0.17478003
+        },
+        {
+            "declaredDate": "2021-07-30T00:00:00Z",
+            "payDate": "2021-08-13T00:00:00Z",
+            "value": 0.12
+        },
+        {
+            "declaredDate": "2021-08-31T00:00:00Z",
+            "payDate": "2021-09-15T00:00:00Z",
+            "value": 0.17
+        },
+        {
+            "declaredDate": "2021-09-30T00:00:00Z",
+            "payDate": "2021-10-15T00:00:00Z",
+            "value": 0.13
+        },
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-11-16T00:00:00Z",
+            "value": 0.13
+        },
+        {
+            "declaredDate": "2021-11-30T00:00:00Z",
+            "payDate": "2021-12-14T00:00:00Z",
+            "value": 0.16
+        },
+        {
+            "declaredDate": "2021-12-30T00:00:00Z",
+            "payDate": "2022-01-14T00:00:00Z",
+            "value": 0.1766
+        }
+    ],
+    "historical_data": []
+}

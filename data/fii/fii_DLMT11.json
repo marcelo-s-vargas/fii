@@ -1,0 +1,133 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "DLMT11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2021-04-30T00:00:00Z",
+            "payDate": "2021-04-14T00:00:00Z",
+            "value": 0.01739
+        },
+        {
+            "declaredDate": "2021-05-31T00:00:00Z",
+            "payDate": "2021-06-15T00:00:00Z",
+            "value": 0.00470536
+        },
+        {
+            "declaredDate": "2021-07-07T00:00:00Z",
+            "payDate": "2021-07-15T00:00:00Z",
+            "value": 0.026199
+        },
+        {
+            "declaredDate": "2021-10-07T00:00:00Z",
+            "payDate": "2021-10-15T00:00:00Z",
+            "value": 0.016853
+        },
+        {
+            "declaredDate": "2021-11-05T00:00:00Z",
+            "payDate": "2021-11-12T00:00:00Z",
+            "value": 0.006393
+        },
+        {
+            "declaredDate": "2021-12-07T00:00:00Z",
+            "payDate": "2021-12-15T00:00:00Z",
+            "value": 0.021369
+        },
+        {
+            "declaredDate": "2022-01-07T00:00:00Z",
+            "payDate": "2022-01-14T00:00:00Z",
+            "value": 0.003129
+        },
+        {
+            "declaredDate": "2022-02-07T00:00:00Z",
+            "payDate": "2022-02-15T00:00:00Z",
+            "value": 0.002854
+        },
+        {
+            "declaredDate": "2022-04-07T00:00:00Z",
+            "payDate": "2022-04-15T00:00:00Z",
+            "value": 0.005548
+        },
+        {
+            "declaredDate": "2022-05-06T00:00:00Z",
+            "payDate": "2022-05-13T00:00:00Z",
+            "value": 0.014275
+        },
+        {
+            "declaredDate": "2022-06-07T00:00:00Z",
+            "payDate": "2022-06-15T00:00:00Z",
+            "value": 0.006223
+        },
+        {
+            "declaredDate": "2022-07-07T00:00:00Z",
+            "payDate": "2022-07-15T00:00:00Z",
+            "value": 0.008565
+        },
+        {
+            "declaredDate": "2022-08-05T00:00:00Z",
+            "payDate": "2022-08-15T00:00:00Z",
+            "value": 0.007381
+        },
+        {
+            "declaredDate": "2022-09-06T00:00:00Z",
+            "payDate": "2022-09-15T00:00:00Z",
+            "value": 0.007906
+        },
+        {
+            "declaredDate": "2022-10-07T00:00:00Z",
+            "payDate": "2022-10-14T00:00:00Z",
+            "value": 0.014371
+        },
+        {
+            "declaredDate": "2022-11-07T00:00:00Z",
+            "payDate": "2022-11-14T00:00:00Z",
+            "value": 0.008794
+        },
+        {
+            "declaredDate": "2022-12-07T00:00:00Z",
+            "payDate": "2022-12-15T00:00:00Z",
+            "value": 0.008574
+        },
+        {
+            "declaredDate": "2023-01-06T00:00:00Z",
+            "payDate": "2023-01-13T00:00:00Z",
+            "value": 0.01298
+        },
+        {
+            "declaredDate": "2023-02-07T00:00:00Z",
+            "payDate": "2023-02-15T00:00:00Z",
+            "value": 0.000944
+        },
+        {
+            "declaredDate": "2023-03-07T00:00:00Z",
+            "payDate": "2023-03-15T00:00:00Z",
+            "value": 0.007684
+        },
+        {
+            "declaredDate": "2023-04-10T00:00:00Z",
+            "payDate": "2023-04-14T00:00:00Z",
+            "value": 0.016948
+        },
+        {
+            "declaredDate": "2023-05-05T00:00:00Z",
+            "payDate": "2023-05-15T00:00:00Z",
+            "value": 0.009307
+        }
+    ],
+    "historical_data": []
+}

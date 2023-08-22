@@ -1,0 +1,164 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 3466,
+            "dividendYield": 4.48,
+            "high": 0,
+            "lastPrice": 3466,
+            "lastYearHigh": 3500,
+            "lastYearLow": 3450,
+            "low": 0,
+            "name": "FII ANCAR ICCI MB",
+            "priceOpen": 0,
+            "shares": 451113,
+            "symbol": "ANCR11B",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2016-08-29T00:00:00Z",
+            "payDate": "2016-09-05T00:00:00Z",
+            "value": 36.87309652
+        },
+        {
+            "declaredDate": "2017-01-31T00:00:00Z",
+            "payDate": "2017-02-07T00:00:00Z",
+            "value": 36.87309652
+        },
+        {
+            "declaredDate": "2017-08-18T00:00:00Z",
+            "payDate": "2017-08-25T00:00:00Z",
+            "value": 67.71613897
+        },
+        {
+            "declaredDate": "2017-11-17T00:00:00Z",
+            "payDate": "2017-11-27T00:00:00Z",
+            "value": 47.58474863
+        },
+        {
+            "declaredDate": "2018-02-01T00:00:00Z",
+            "payDate": "2018-02-23T00:00:00Z",
+            "value": 32.56107534
+        },
+        {
+            "declaredDate": "2018-04-30T00:00:00Z",
+            "payDate": "2018-05-25T00:00:00Z",
+            "value": 43.72399977
+        },
+        {
+            "declaredDate": "2018-08-01T00:00:00Z",
+            "payDate": "2018-08-24T00:00:00Z",
+            "value": 27.81022323
+        },
+        {
+            "declaredDate": "2018-10-31T00:00:00Z",
+            "payDate": "2018-11-23T00:00:00Z",
+            "value": 19.89819622
+        },
+        {
+            "declaredDate": "2019-01-31T00:00:00Z",
+            "payDate": "2019-02-25T00:00:00Z",
+            "value": 31.91426177
+        },
+        {
+            "declaredDate": "2019-04-30T00:00:00Z",
+            "payDate": "2019-05-24T00:00:00Z",
+            "value": 38.3298734
+        },
+        {
+            "declaredDate": "2019-07-31T00:00:00Z",
+            "payDate": "2019-08-23T00:00:00Z",
+            "value": 29.0445276
+        },
+        {
+            "declaredDate": "2019-10-31T00:00:00Z",
+            "payDate": "2019-11-25T00:00:00Z",
+            "value": 33.85164101
+        },
+        {
+            "declaredDate": "2021-01-29T00:00:00Z",
+            "payDate": "2021-02-25T00:00:00Z",
+            "value": 37.52607065
+        },
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-11-25T00:00:00Z",
+            "value": 52.6
+        },
+        {
+            "declaredDate": "2022-01-31T00:00:00Z",
+            "payDate": "2022-02-21T00:00:00Z",
+            "value": 56.31580493
+        },
+        {
+            "declaredDate": "2022-04-29T00:00:00Z",
+            "payDate": "2022-05-25T00:00:00Z",
+            "value": 40.151526
+        },
+        {
+            "declaredDate": "2022-07-29T00:00:00Z",
+            "payDate": "2022-08-25T00:00:00Z",
+            "value": 54.64091192
+        },
+        {
+            "declaredDate": "2022-10-31T00:00:00Z",
+            "payDate": "2022-11-25T00:00:00Z",
+            "value": 39.17905356
+        },
+        {
+            "declaredDate": "2023-01-31T00:00:00Z",
+            "payDate": "2023-02-24T00:00:00Z",
+            "value": 21.03861986
+        },
+        {
+            "declaredDate": "2023-04-28T00:00:00Z",
+            "payDate": "2023-05-25T00:00:00Z",
+            "value": 42.07723972
+        }
+    ],
+    "historical_data": [
+        {
+            "close": 3450,
+            "date": "2022-10-28T00:00:00Z",
+            "high": 3450,
+            "low": 3450,
+            "open": 3450,
+            "volume": 1
+        },
+        {
+            "close": 3462.98,
+            "date": "2023-07-05T00:00:00Z",
+            "high": 3463,
+            "low": 3462.98,
+            "open": 3463,
+            "volume": 2514
+        },
+        {
+            "close": 3500,
+            "date": "2023-07-25T00:00:00Z",
+            "high": 3500,
+            "low": 3500,
+            "open": 3500,
+            "volume": 1
+        },
+        {
+            "close": 3466,
+            "date": "2023-08-01T00:00:00Z",
+            "high": 3466,
+            "low": 3466,
+            "open": 3466,
+            "volume": 1
+        },
+        {
+            "close": 3466,
+            "date": "2023-08-11T00:00:00Z",
+            "high": 3466,
+            "low": 3466,
+            "open": 3466,
+            "volume": 1
+        }
+    ]
+}

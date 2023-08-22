@@ -1,0 +1,98 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "LOFT11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2019-06-28T00:00:00Z",
+            "payDate": "2019-07-12T00:00:00Z",
+            "value": 0.71029521
+        },
+        {
+            "declaredDate": "2019-12-30T00:00:00Z",
+            "payDate": "2020-01-15T00:00:00Z",
+            "value": 1.33137295
+        },
+        {
+            "declaredDate": "2020-03-31T00:00:00Z",
+            "payDate": "2020-04-15T00:00:00Z",
+            "value": 2.71249136
+        },
+        {
+            "declaredDate": "2020-06-30T00:00:00Z",
+            "payDate": "2020-07-14T00:00:00Z",
+            "value": 2.95955448
+        },
+        {
+            "declaredDate": "2020-06-30T00:00:00Z",
+            "payDate": "2020-07-14T00:00:00Z",
+            "value": 2.99216306
+        },
+        {
+            "declaredDate": "2020-09-30T00:00:00Z",
+            "payDate": "2020-10-15T00:00:00Z",
+            "value": 1.24133135
+        },
+        {
+            "declaredDate": "2020-09-30T00:00:00Z",
+            "payDate": "2020-10-08T00:00:00Z",
+            "value": 45.66606579
+        },
+        {
+            "declaredDate": "2020-09-30T00:00:00Z",
+            "payDate": "2020-10-15T00:00:00Z",
+            "value": 0.78732915
+        },
+        {
+            "declaredDate": "2020-12-30T00:00:00Z",
+            "payDate": "2021-01-15T00:00:00Z",
+            "value": 0.38813097
+        },
+        {
+            "declaredDate": "2021-01-04T00:00:00Z",
+            "payDate": "2021-01-11T00:00:00Z",
+            "value": 27.39963947
+        },
+        {
+            "declaredDate": "2021-03-31T00:00:00Z",
+            "payDate": "2021-04-15T00:00:00Z",
+            "value": 0.20170521
+        },
+        {
+            "declaredDate": "2021-04-01T00:00:00Z",
+            "payDate": "2021-04-16T00:00:00Z",
+            "value": 27.40389371
+        },
+        {
+            "declaredDate": "2021-05-03T00:00:00Z",
+            "payDate": "2021-05-17T00:00:00Z",
+            "value": 21.86903727
+        },
+        {
+            "declaredDate": "2021-06-02T00:00:00Z",
+            "payDate": "2021-06-17T00:00:00Z",
+            "value": 32.80355591
+        },
+        {
+            "declaredDate": "2021-07-01T00:00:00Z",
+            "payDate": "2021-07-15T00:00:00Z",
+            "value": 47.89543517
+        }
+    ],
+    "historical_data": []
+}

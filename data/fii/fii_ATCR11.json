@@ -1,0 +1,123 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "Haz Fundo de Investimento Imobiliario",
+            "priceOpen": 0,
+            "shares": 908046,
+            "symbol": "ATCR11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2018-11-29T00:00:00Z",
+            "payDate": "2018-12-07T00:00:00Z",
+            "value": 0.05300071
+        },
+        {
+            "declaredDate": "2019-01-02T00:00:00Z",
+            "payDate": "2019-01-10T00:00:00Z",
+            "value": 0.05036453
+        },
+        {
+            "declaredDate": "2019-01-29T00:00:00Z",
+            "payDate": "2019-02-06T00:00:00Z",
+            "value": 0.05371306
+        },
+        {
+            "declaredDate": "2019-04-04T00:00:00Z",
+            "payDate": "2019-04-11T00:00:00Z",
+            "value": 0.0609126
+        },
+        {
+            "declaredDate": "2019-07-01T00:00:00Z",
+            "payDate": "2019-07-08T00:00:00Z",
+            "value": 0.09024077
+        },
+        {
+            "declaredDate": "2019-10-01T00:00:00Z",
+            "payDate": "2019-10-08T00:00:00Z",
+            "value": 0.10069515
+        },
+        {
+            "declaredDate": "2019-12-30T00:00:00Z",
+            "payDate": "2020-01-09T00:00:00Z",
+            "value": 0.08929466
+        },
+        {
+            "declaredDate": "2020-03-31T00:00:00Z",
+            "payDate": "2020-04-08T00:00:00Z",
+            "value": 0.1589437
+        },
+        {
+            "declaredDate": "2020-06-30T00:00:00Z",
+            "payDate": "2020-07-08T00:00:00Z",
+            "value": 0.19224935
+        },
+        {
+            "declaredDate": "2020-09-30T00:00:00Z",
+            "payDate": "2020-10-08T00:00:00Z",
+            "value": 0.29431265
+        },
+        {
+            "declaredDate": "2020-12-30T00:00:00Z",
+            "payDate": "2021-01-11T00:00:00Z",
+            "value": 0.5056301
+        },
+        {
+            "declaredDate": "2021-03-31T00:00:00Z",
+            "payDate": "2021-04-09T00:00:00Z",
+            "value": 0.28143028
+        },
+        {
+            "declaredDate": "2021-06-30T00:00:00Z",
+            "payDate": "2021-07-08T00:00:00Z",
+            "value": 0.26516856
+        },
+        {
+            "declaredDate": "2021-09-30T00:00:00Z",
+            "payDate": "2021-10-08T00:00:00Z",
+            "value": 0.21829876
+        },
+        {
+            "declaredDate": "2021-12-30T00:00:00Z",
+            "payDate": "2022-01-10T00:00:00Z",
+            "value": 0.30020555
+        },
+        {
+            "declaredDate": "2022-03-31T00:00:00Z",
+            "payDate": "2022-04-08T00:00:00Z",
+            "value": 0.25008971
+        },
+        {
+            "declaredDate": "2022-06-30T00:00:00Z",
+            "payDate": "2022-07-08T00:00:00Z",
+            "value": 0.06909906
+        },
+        {
+            "declaredDate": "2022-09-30T00:00:00Z",
+            "payDate": "2022-10-10T00:00:00Z",
+            "value": 0.25148979
+        },
+        {
+            "declaredDate": "2022-12-29T00:00:00Z",
+            "payDate": "2023-01-09T00:00:00Z",
+            "value": 0.22665118
+        },
+        {
+            "declaredDate": "2023-03-31T00:00:00Z",
+            "payDate": "2023-04-11T00:00:00Z",
+            "value": 0.07856882
+        }
+    ],
+    "historical_data": []
+}

@@ -1,0 +1,113 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "FCAS11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2016-12-13T00:00:00Z",
+            "payDate": "2016-12-20T00:00:00Z",
+            "value": 1.61608243
+        },
+        {
+            "declaredDate": "2017-01-13T00:00:00Z",
+            "payDate": "2017-01-20T00:00:00Z",
+            "value": 1.44421544
+        },
+        {
+            "declaredDate": "2017-02-13T00:00:00Z",
+            "payDate": "2017-02-20T00:00:00Z",
+            "value": 0.74405409
+        },
+        {
+            "declaredDate": "2017-03-13T00:00:00Z",
+            "payDate": "2017-03-20T00:00:00Z",
+            "value": 0.83324343
+        },
+        {
+            "declaredDate": "2017-03-14T00:00:00Z",
+            "payDate": "2017-03-21T00:00:00Z",
+            "value": 0.83324343
+        },
+        {
+            "declaredDate": "2018-04-13T00:00:00Z",
+            "payDate": "2018-04-20T00:00:00Z",
+            "value": 0.65508027
+        },
+        {
+            "declaredDate": "2018-05-11T00:00:00Z",
+            "payDate": "2018-05-18T00:00:00Z",
+            "value": 0.74933171
+        },
+        {
+            "declaredDate": "2018-06-13T00:00:00Z",
+            "payDate": "2018-06-20T00:00:00Z",
+            "value": 0.51055183
+        },
+        {
+            "declaredDate": "2018-07-13T00:00:00Z",
+            "payDate": "2018-07-20T00:00:00Z",
+            "value": 0.44992501
+        },
+        {
+            "declaredDate": "2018-08-13T00:00:00Z",
+            "payDate": "2018-08-20T00:00:00Z",
+            "value": 0.48308312
+        },
+        {
+            "declaredDate": "2018-09-13T00:00:00Z",
+            "payDate": "2018-09-20T00:00:00Z",
+            "value": 0.47741798
+        },
+        {
+            "declaredDate": "2018-10-11T00:00:00Z",
+            "payDate": "2018-10-19T00:00:00Z",
+            "value": 0.48285917
+        },
+        {
+            "declaredDate": "2018-11-09T00:00:00Z",
+            "payDate": "2018-11-19T00:00:00Z",
+            "value": 0.12015449
+        },
+        {
+            "declaredDate": "2018-11-12T00:00:00Z",
+            "payDate": "2018-11-20T00:00:00Z",
+            "value": 0.12015449
+        },
+        {
+            "declaredDate": "2018-12-13T00:00:00Z",
+            "payDate": "2018-12-20T00:00:00Z",
+            "value": 0.49077321
+        },
+        {
+            "declaredDate": "2019-01-11T00:00:00Z",
+            "payDate": "2019-01-18T00:00:00Z",
+            "value": 52.91046164
+        },
+        {
+            "declaredDate": "2019-01-23T00:00:00Z",
+            "payDate": "2019-01-31T00:00:00Z",
+            "value": 0.12191508
+        },
+        {
+            "declaredDate": "2019-01-23T00:00:00Z",
+            "payDate": "2019-01-31T00:00:00Z",
+            "value": 60.82272282
+        }
+    ],
+    "historical_data": []
+}

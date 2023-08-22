@@ -1,0 +1,33 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "PRTS11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2022-05-11T00:00:00Z",
+            "payDate": "2022-05-18T00:00:00Z",
+            "value": 0.05487048
+        },
+        {
+            "declaredDate": "2022-05-11T00:00:00Z",
+            "payDate": "2022-05-18T00:00:00Z",
+            "value": 0.05487048
+        }
+    ],
+    "historical_data": []
+}

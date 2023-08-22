@@ -1,0 +1,148 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 68.67,
+            "dividendYield": 12.17,
+            "high": 69,
+            "lastPrice": 68.67,
+            "lastYearHigh": 72.98,
+            "lastYearLow": 57.31,
+            "low": 68.67,
+            "name": "FI Imobiliario Rec Fundo de Fundos",
+            "priceOpen": 68.67,
+            "shares": 218313,
+            "symbol": "RECX11",
+            "volume": 12,
+            "volumeAvg": 123
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2021-05-14T00:00:00Z",
+            "payDate": "2021-05-21T00:00:00Z",
+            "value": 0.9
+        },
+        {
+            "declaredDate": "2021-06-15T00:00:00Z",
+            "payDate": "2021-06-22T00:00:00Z",
+            "value": 0.9
+        },
+        {
+            "declaredDate": "2021-07-15T00:00:00Z",
+            "payDate": "2021-07-22T00:00:00Z",
+            "value": 1.04454774
+        },
+        {
+            "declaredDate": "2021-08-13T00:00:00Z",
+            "payDate": "2021-08-20T00:00:00Z",
+            "value": 0.8
+        },
+        {
+            "declaredDate": "2021-09-15T00:00:00Z",
+            "payDate": "2021-09-22T00:00:00Z",
+            "value": 0.8
+        },
+        {
+            "declaredDate": "2021-10-15T00:00:00Z",
+            "payDate": "2021-10-22T00:00:00Z",
+            "value": 0.9
+        },
+        {
+            "declaredDate": "2021-11-16T00:00:00Z",
+            "payDate": "2021-11-23T00:00:00Z",
+            "value": 0.9
+        },
+        {
+            "declaredDate": "2021-12-14T00:00:00Z",
+            "payDate": "2021-12-21T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2022-01-14T00:00:00Z",
+            "payDate": "2022-01-21T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2022-02-14T00:00:00Z",
+            "payDate": "2022-02-21T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2022-03-15T00:00:00Z",
+            "payDate": "2022-03-22T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2022-04-14T00:00:00Z",
+            "payDate": "2022-04-25T00:00:00Z",
+            "value": 0.8
+        },
+        {
+            "declaredDate": "2022-05-13T00:00:00Z",
+            "payDate": "2022-05-20T00:00:00Z",
+            "value": 0.69981407
+        },
+        {
+            "declaredDate": "2022-06-14T00:00:00Z",
+            "payDate": "2022-06-22T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2022-07-14T00:00:00Z",
+            "payDate": "2022-07-21T00:00:00Z",
+            "value": 0.43808834
+        },
+        {
+            "declaredDate": "2022-08-12T00:00:00Z",
+            "payDate": "2022-08-19T00:00:00Z",
+            "value": 0.8
+        },
+        {
+            "declaredDate": "2022-09-15T00:00:00Z",
+            "payDate": "2022-09-22T00:00:00Z",
+            "value": 0.8
+        },
+        {
+            "declaredDate": "2022-10-17T00:00:00Z",
+            "payDate": "2022-10-24T00:00:00Z",
+            "value": 0.8
+        },
+        {
+            "declaredDate": "2022-11-16T00:00:00Z",
+            "payDate": "2022-11-23T00:00:00Z",
+            "value": 0.8
+        },
+        {
+            "declaredDate": "2022-12-14T00:00:00Z",
+            "payDate": "2022-12-21T00:00:00Z",
+            "value": 0.6
+        },
+        {
+            "declaredDate": "2023-01-13T00:00:00Z",
+            "payDate": "2023-01-20T00:00:00Z",
+            "value": 0.6
+        },
+        {
+            "declaredDate": "2023-02-14T00:00:00Z",
+            "payDate": "2023-02-23T00:00:00Z",
+            "value": 0.69692043
+        },
+        {
+            "declaredDate": "2023-03-14T00:00:00Z",
+            "payDate": "2023-03-21T00:00:00Z",
+            "value": 0.7
+        },
+        {
+            "declaredDate": "2023-04-17T00:00:00Z",
+            "payDate": "2023-04-25T00:00:00Z",
+            "value": 0.7
+        },
+        {
+            "declaredDate": "2023-05-15T00:00:00Z",
+            "payDate": "2023-05-22T00:00:00Z",
+            "value": 0.6
+        }
+    ],
+    "historical_data": []
+}

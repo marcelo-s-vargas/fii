@@ -1,0 +1,273 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "SPA Fundo de Investimento Imobiliario",
+            "priceOpen": 0,
+            "shares": 11270,
+            "symbol": "SPAF11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2017-03-31T00:00:00Z",
+            "payDate": "2017-04-07T00:00:00Z",
+            "value": 3.35844765
+        },
+        {
+            "declaredDate": "2017-05-02T00:00:00Z",
+            "payDate": "2017-05-09T00:00:00Z",
+            "value": 3.76118223
+        },
+        {
+            "declaredDate": "2017-05-31T00:00:00Z",
+            "payDate": "2017-06-07T00:00:00Z",
+            "value": 3.9068384
+        },
+        {
+            "declaredDate": "2017-09-29T00:00:00Z",
+            "payDate": "2017-10-06T00:00:00Z",
+            "value": 14.29969122
+        },
+        {
+            "declaredDate": "2017-12-20T00:00:00Z",
+            "payDate": "2017-12-28T00:00:00Z",
+            "value": 19.05057675
+        },
+        {
+            "declaredDate": "2018-06-29T00:00:00Z",
+            "payDate": "2018-07-06T00:00:00Z",
+            "value": 18.75209583
+        },
+        {
+            "declaredDate": "2018-08-31T00:00:00Z",
+            "payDate": "2018-09-10T00:00:00Z",
+            "value": 3.90416996
+        },
+        {
+            "declaredDate": "2018-09-28T00:00:00Z",
+            "payDate": "2018-10-05T00:00:00Z",
+            "value": 1.93377171
+        },
+        {
+            "declaredDate": "2018-10-31T00:00:00Z",
+            "payDate": "2018-11-08T00:00:00Z",
+            "value": 1.19199875
+        },
+        {
+            "declaredDate": "2018-11-30T00:00:00Z",
+            "payDate": "2018-12-07T00:00:00Z",
+            "value": 1.85457932
+        },
+        {
+            "declaredDate": "2018-12-28T00:00:00Z",
+            "payDate": "2019-01-08T00:00:00Z",
+            "value": 4.64
+        },
+        {
+            "declaredDate": "2019-02-28T00:00:00Z",
+            "payDate": "2019-03-11T00:00:00Z",
+            "value": 4.02470064
+        },
+        {
+            "declaredDate": "2019-04-30T00:00:00Z",
+            "payDate": "2019-05-08T00:00:00Z",
+            "value": 2.16623313
+        },
+        {
+            "declaredDate": "2019-05-31T00:00:00Z",
+            "payDate": "2019-06-07T00:00:00Z",
+            "value": 2.52898283
+        },
+        {
+            "declaredDate": "2019-06-28T00:00:00Z",
+            "payDate": "2019-07-05T00:00:00Z",
+            "value": 2.64010574
+        },
+        {
+            "declaredDate": "2019-07-31T00:00:00Z",
+            "payDate": "2019-08-07T00:00:00Z",
+            "value": 2.29443756
+        },
+        {
+            "declaredDate": "2019-08-30T00:00:00Z",
+            "payDate": "2019-09-06T00:00:00Z",
+            "value": 2.5123829
+        },
+        {
+            "declaredDate": "2019-09-23T00:00:00Z",
+            "payDate": "2019-09-30T00:00:00Z",
+            "value": 66.54835847
+        },
+        {
+            "declaredDate": "2019-09-30T00:00:00Z",
+            "payDate": "2019-10-07T00:00:00Z",
+            "value": 5.14213769
+        },
+        {
+            "declaredDate": "2019-10-31T00:00:00Z",
+            "payDate": "2019-11-07T00:00:00Z",
+            "value": 2.45443173
+        },
+        {
+            "declaredDate": "2019-11-29T00:00:00Z",
+            "payDate": "2019-12-06T00:00:00Z",
+            "value": 1.86940003
+        },
+        {
+            "declaredDate": "2019-12-30T00:00:00Z",
+            "payDate": "2020-01-08T00:00:00Z",
+            "value": 0.81084546
+        },
+        {
+            "declaredDate": "2020-02-28T00:00:00Z",
+            "payDate": "2020-03-06T00:00:00Z",
+            "value": 1.80502437
+        },
+        {
+            "declaredDate": "2020-11-30T00:00:00Z",
+            "payDate": "2020-12-07T00:00:00Z",
+            "value": 4.8335587
+        },
+        {
+            "declaredDate": "2020-12-30T00:00:00Z",
+            "payDate": "2021-01-08T00:00:00Z",
+            "value": 0.55281628
+        },
+        {
+            "declaredDate": "2021-01-29T00:00:00Z",
+            "payDate": "2021-02-05T00:00:00Z",
+            "value": 2.96351868
+        },
+        {
+            "declaredDate": "2021-02-26T00:00:00Z",
+            "payDate": "2021-03-05T00:00:00Z",
+            "value": 3.39843997
+        },
+        {
+            "declaredDate": "2021-03-31T00:00:00Z",
+            "payDate": "2021-04-08T00:00:00Z",
+            "value": 2.37305111
+        },
+        {
+            "declaredDate": "2021-05-31T00:00:00Z",
+            "payDate": "2021-06-08T00:00:00Z",
+            "value": 3.44574525
+        },
+        {
+            "declaredDate": "2021-06-30T00:00:00Z",
+            "payDate": "2021-07-07T00:00:00Z",
+            "value": 3.46452529
+        },
+        {
+            "declaredDate": "2021-07-30T00:00:00Z",
+            "payDate": "2021-08-06T00:00:00Z",
+            "value": 4.09444858
+        },
+        {
+            "declaredDate": "2021-08-31T00:00:00Z",
+            "payDate": "2021-09-08T00:00:00Z",
+            "value": 3.91904082
+        },
+        {
+            "declaredDate": "2021-09-30T00:00:00Z",
+            "payDate": "2021-10-07T00:00:00Z",
+            "value": 3.39401619
+        },
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-11-08T00:00:00Z",
+            "value": 2.1902422
+        },
+        {
+            "declaredDate": "2021-11-30T00:00:00Z",
+            "payDate": "2021-12-07T00:00:00Z",
+            "value": 1.6937717
+        },
+        {
+            "declaredDate": "2021-12-30T00:00:00Z",
+            "payDate": "2022-01-07T00:00:00Z",
+            "value": 7.42802609
+        },
+        {
+            "declaredDate": "2022-01-31T00:00:00Z",
+            "payDate": "2022-02-07T00:00:00Z",
+            "value": 5.5625012
+        },
+        {
+            "declaredDate": "2022-02-14T00:00:00Z",
+            "payDate": "2022-02-21T00:00:00Z",
+            "value": 10.38796171
+        },
+        {
+            "declaredDate": "2022-02-25T00:00:00Z",
+            "payDate": "2022-03-08T00:00:00Z",
+            "value": 2.71106566
+        },
+        {
+            "declaredDate": "2022-05-31T00:00:00Z",
+            "payDate": "2022-06-07T00:00:00Z",
+            "value": 1.64443035
+        },
+        {
+            "declaredDate": "2022-06-30T00:00:00Z",
+            "payDate": "2022-07-07T00:00:00Z",
+            "value": 10.98
+        },
+        {
+            "declaredDate": "2022-07-06T00:00:00Z",
+            "payDate": "2022-07-13T00:00:00Z",
+            "value": 6.05041659
+        },
+        {
+            "declaredDate": "2022-07-06T00:00:00Z",
+            "payDate": "2022-07-13T00:00:00Z",
+            "value": 43.90521784
+        },
+        {
+            "declaredDate": "2022-07-06T00:00:00Z",
+            "payDate": "2022-07-13T00:00:00Z",
+            "value": 49.95563443
+        },
+        {
+            "declaredDate": "2022-07-29T00:00:00Z",
+            "payDate": "2022-08-05T00:00:00Z",
+            "value": 5.91015568
+        },
+        {
+            "declaredDate": "2022-08-31T00:00:00Z",
+            "payDate": "2022-09-08T00:00:00Z",
+            "value": 9.61496602
+        },
+        {
+            "declaredDate": "2022-10-31T00:00:00Z",
+            "payDate": "2022-11-08T00:00:00Z",
+            "value": 15.97980333
+        },
+        {
+            "declaredDate": "2023-01-31T00:00:00Z",
+            "payDate": "2023-02-07T00:00:00Z",
+            "value": 2.40556353
+        },
+        {
+            "declaredDate": "2023-02-28T00:00:00Z",
+            "payDate": "2023-03-07T00:00:00Z",
+            "value": 5.97476074
+        },
+        {
+            "declaredDate": "2023-04-28T00:00:00Z",
+            "payDate": "2023-05-08T00:00:00Z",
+            "value": 2.56822005
+        }
+    ],
+    "historical_data": []
+}

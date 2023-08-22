@@ -1,0 +1,58 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "JT Prev FII Desenvolvimento Habitacional",
+            "priceOpen": 0,
+            "shares": 214674,
+            "symbol": "JTPR11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2018-10-31T00:00:00Z",
+            "payDate": "2018-12-03T00:00:00Z",
+            "value": 0.2794924
+        },
+        {
+            "declaredDate": "2018-12-28T00:00:00Z",
+            "payDate": "2019-01-15T00:00:00Z",
+            "value": 0.03936
+        },
+        {
+            "declaredDate": "2019-03-29T00:00:00Z",
+            "payDate": "2019-04-15T00:00:00Z",
+            "value": 1.2
+        },
+        {
+            "declaredDate": "2020-06-30T00:00:00Z",
+            "payDate": "2020-07-14T00:00:00Z",
+            "value": 0.04082438
+        },
+        {
+            "declaredDate": "2020-07-31T00:00:00Z",
+            "payDate": "2020-08-28T00:00:00Z",
+            "value": 1.39746194
+        },
+        {
+            "declaredDate": "2020-08-31T00:00:00Z",
+            "payDate": "2020-09-28T00:00:00Z",
+            "value": 1.63037227
+        },
+        {
+            "declaredDate": "2021-11-03T00:00:00Z",
+            "payDate": "2021-11-10T00:00:00Z",
+            "value": 13.97461944
+        }
+    ],
+    "historical_data": []
+}

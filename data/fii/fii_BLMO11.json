@@ -1,0 +1,160 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 20538,
+            "dividendYield": 3.07,
+            "high": 0,
+            "lastPrice": 20538,
+            "lastYearHigh": 21302.97,
+            "lastYearLow": 19394.86,
+            "low": 0,
+            "name": "VBI Office Fund II - Fundo de Investimento Imobiliario",
+            "priceOpen": 0,
+            "shares": 3797,
+            "symbol": "BLMO11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2022-01-31T00:00:00Z",
+            "payDate": "2022-02-14T00:00:00Z",
+            "value": 17.5143
+        },
+        {
+            "declaredDate": "2022-02-25T00:00:00Z",
+            "payDate": "2022-03-15T00:00:00Z",
+            "value": 5.17
+        },
+        {
+            "declaredDate": "2022-03-31T00:00:00Z",
+            "payDate": "2022-04-14T00:00:00Z",
+            "value": 17.5143
+        },
+        {
+            "declaredDate": "2022-04-29T00:00:00Z",
+            "payDate": "2022-05-13T00:00:00Z",
+            "value": 17.5143
+        },
+        {
+            "declaredDate": "2022-05-31T00:00:00Z",
+            "payDate": "2022-06-14T00:00:00Z",
+            "value": 14.13
+        },
+        {
+            "declaredDate": "2022-06-30T00:00:00Z",
+            "payDate": "2022-07-14T00:00:00Z",
+            "value": 10.27
+        },
+        {
+            "declaredDate": "2022-07-29T00:00:00Z",
+            "payDate": "2022-08-12T00:00:00Z",
+            "value": 37.45
+        },
+        {
+            "declaredDate": "2022-08-31T00:00:00Z",
+            "payDate": "2022-09-15T00:00:00Z",
+            "value": 37.45
+        },
+        {
+            "declaredDate": "2022-09-30T00:00:00Z",
+            "payDate": "2022-10-17T00:00:00Z",
+            "value": 32.67
+        },
+        {
+            "declaredDate": "2022-10-31T00:00:00Z",
+            "payDate": "2022-11-16T00:00:00Z",
+            "value": 26.02
+        },
+        {
+            "declaredDate": "2022-11-30T00:00:00Z",
+            "payDate": "2022-12-14T00:00:00Z",
+            "value": 26.02
+        },
+        {
+            "declaredDate": "2022-12-29T00:00:00Z",
+            "payDate": "2023-01-13T00:00:00Z",
+            "value": 36.21
+        },
+        {
+            "declaredDate": "2023-01-31T00:00:00Z",
+            "payDate": "2023-02-14T00:00:00Z",
+            "value": 38
+        },
+        {
+            "declaredDate": "2023-02-28T00:00:00Z",
+            "payDate": "2023-03-14T00:00:00Z",
+            "value": 50
+        },
+        {
+            "declaredDate": "2023-03-31T00:00:00Z",
+            "payDate": "2023-04-17T00:00:00Z",
+            "value": 50
+        },
+        {
+            "declaredDate": "2023-04-28T00:00:00Z",
+            "payDate": "2023-05-15T00:00:00Z",
+            "value": 70
+        }
+    ],
+    "historical_data": [
+        {
+            "close": 22000,
+            "date": "2022-09-22T00:00:00Z",
+            "high": 22000,
+            "low": 22000,
+            "open": 22000,
+            "volume": 10
+        },
+        {
+            "close": 20000,
+            "date": "2022-10-26T00:00:00Z",
+            "high": 20000,
+            "low": 20000,
+            "open": 20000,
+            "volume": 40
+        },
+        {
+            "close": 19873.75,
+            "date": "2023-02-07T00:00:00Z",
+            "high": 19873.75,
+            "low": 19873.75,
+            "open": 19873.75,
+            "volume": 76
+        },
+        {
+            "close": 21000,
+            "date": "2023-02-17T00:00:00Z",
+            "high": 21000,
+            "low": 21000,
+            "open": 21000,
+            "volume": 20
+        },
+        {
+            "close": 21775,
+            "date": "2023-03-03T00:00:00Z",
+            "high": 21775,
+            "low": 21775,
+            "open": 21775,
+            "volume": 56
+        },
+        {
+            "close": 20999,
+            "date": "2023-03-21T00:00:00Z",
+            "high": 20999,
+            "low": 20999,
+            "open": 20999,
+            "volume": 1
+        },
+        {
+            "close": 20538,
+            "date": "2023-08-11T00:00:00Z",
+            "high": 20538,
+            "low": 20538,
+            "open": 20538,
+            "volume": 1
+        }
+    ]
+}

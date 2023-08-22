@@ -1,0 +1,22 @@
+{
+    "fiis": [
+        {
+            "change": -100,
+            "closingPrice": 103.38,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "Alianza Multioffices - FI Imobilirio",
+            "priceOpen": 0,
+            "shares": 1793000,
+            "symbol": "MTOF11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [],
+    "historical_data": []
+}

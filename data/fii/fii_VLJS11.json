@@ -1,0 +1,123 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "Vector Queluz Lajes Corporativas FII (DUP)",
+            "priceOpen": 0,
+            "shares": 26069,
+            "symbol": "VLJS11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2017-06-30T00:00:00Z",
+            "payDate": "2017-07-20T00:00:00Z",
+            "value": 8.99543658
+        },
+        {
+            "declaredDate": "2017-12-28T00:00:00Z",
+            "payDate": "2018-01-22T00:00:00Z",
+            "value": 1.11
+        },
+        {
+            "declaredDate": "2018-08-09T00:00:00Z",
+            "payDate": "2018-08-20T00:00:00Z",
+            "value": 1.2483792
+        },
+        {
+            "declaredDate": "2019-06-28T00:00:00Z",
+            "payDate": "2019-07-22T00:00:00Z",
+            "value": 21.5474535
+        },
+        {
+            "declaredDate": "2019-12-31T00:00:00Z",
+            "payDate": "2020-01-20T00:00:00Z",
+            "value": 16.42508027
+        },
+        {
+            "declaredDate": "2020-01-02T00:00:00Z",
+            "payDate": "2020-01-20T00:00:00Z",
+            "value": 16.42508027
+        },
+        {
+            "declaredDate": "2020-03-19T00:00:00Z",
+            "payDate": "2020-03-30T00:00:00Z",
+            "value": 303.87239522
+        },
+        {
+            "declaredDate": "2020-06-30T00:00:00Z",
+            "payDate": "2020-07-14T00:00:00Z",
+            "value": 7.1854046
+        },
+        {
+            "declaredDate": "2021-01-29T00:00:00Z",
+            "payDate": "2021-02-05T00:00:00Z",
+            "value": 18.24051886
+        },
+        {
+            "declaredDate": "2021-02-26T00:00:00Z",
+            "payDate": "2021-03-09T00:00:00Z",
+            "value": 425.28584989
+        },
+        {
+            "declaredDate": "2021-04-30T00:00:00Z",
+            "payDate": "2021-05-20T00:00:00Z",
+            "value": 18.24051886
+        },
+        {
+            "declaredDate": "2021-05-31T00:00:00Z",
+            "payDate": "2021-06-20T00:00:00Z",
+            "value": 18.24051886
+        },
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-10-01T00:00:00Z",
+            "value": 140.22225772
+        },
+        {
+            "declaredDate": "2021-11-12T00:00:00Z",
+            "payDate": "2021-11-16T00:00:00Z",
+            "value": 133.05879
+        },
+        {
+            "declaredDate": "2021-12-30T00:00:00Z",
+            "payDate": "2022-01-28T00:00:00Z",
+            "value": 28.81922098
+        },
+        {
+            "declaredDate": "2022-05-11T00:00:00Z",
+            "payDate": "2022-05-18T00:00:00Z",
+            "value": 441.143008
+        },
+        {
+            "declaredDate": "2022-05-27T00:00:00Z",
+            "payDate": "2022-06-03T00:00:00Z",
+            "value": 33.98719177
+        },
+        {
+            "declaredDate": "2022-09-01T00:00:00Z",
+            "payDate": "2022-09-09T00:00:00Z",
+            "value": 28.30139313
+        },
+        {
+            "declaredDate": "2022-11-10T00:00:00Z",
+            "payDate": "2022-11-21T00:00:00Z",
+            "value": 23.98881591
+        },
+        {
+            "declaredDate": "2023-04-19T00:00:00Z",
+            "payDate": "2023-04-26T00:00:00Z",
+            "value": 28.04958487
+        }
+    ],
+    "historical_data": []
+}

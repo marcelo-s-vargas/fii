@@ -1,0 +1,22 @@
+{
+    "fiis": [
+        {
+            "change": 0.47,
+            "closingPrice": 1291.99,
+            "dividendYield": 0.45,
+            "high": 0,
+            "lastPrice": 1298,
+            "lastYearHigh": 1292.99,
+            "lastYearLow": 1206.38,
+            "low": 0,
+            "name": "Panorama Desenvolvimento Logistico FII Closed Fund",
+            "priceOpen": 0,
+            "shares": 77599,
+            "symbol": "PNDL11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [],
+    "historical_data": []
+}

@@ -1,0 +1,143 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "TOUR11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2019-02-28T00:00:00Z",
+            "payDate": "2019-03-18T00:00:00Z",
+            "value": 3.5841
+        },
+        {
+            "declaredDate": "2019-05-31T00:00:00Z",
+            "payDate": "2019-06-07T00:00:00Z",
+            "value": 0.2715
+        },
+        {
+            "declaredDate": "2019-05-31T00:00:00Z",
+            "payDate": "2019-06-07T00:00:00Z",
+            "value": 2.4861
+        },
+        {
+            "declaredDate": "2020-02-28T00:00:00Z",
+            "payDate": "2020-03-13T00:00:00Z",
+            "value": 0.04992
+        },
+        {
+            "declaredDate": "2020-03-02T00:00:00Z",
+            "payDate": "2020-03-13T00:00:00Z",
+            "value": 1.2283
+        },
+        {
+            "declaredDate": "2020-03-02T00:00:00Z",
+            "payDate": "2020-03-13T00:00:00Z",
+            "value": 0.13144
+        },
+        {
+            "declaredDate": "2020-06-30T00:00:00Z",
+            "payDate": "2020-07-15T00:00:00Z",
+            "value": 0.6907
+        },
+        {
+            "declaredDate": "2020-07-31T00:00:00Z",
+            "payDate": "2020-08-14T00:00:00Z",
+            "value": 1.2023
+        },
+        {
+            "declaredDate": "2020-07-31T00:00:00Z",
+            "payDate": "2020-08-14T00:00:00Z",
+            "value": 2.3307
+        },
+        {
+            "declaredDate": "2020-12-30T00:00:00Z",
+            "payDate": "2021-01-15T00:00:00Z",
+            "value": 2.7467
+        },
+        {
+            "declaredDate": "2021-01-29T00:00:00Z",
+            "payDate": "2021-02-12T00:00:00Z",
+            "value": 2.5907
+        },
+        {
+            "declaredDate": "2021-02-26T00:00:00Z",
+            "payDate": "2021-03-12T00:00:00Z",
+            "value": 1.6042
+        },
+        {
+            "declaredDate": "2021-03-31T00:00:00Z",
+            "payDate": "2021-04-15T00:00:00Z",
+            "value": 2.0806
+        },
+        {
+            "declaredDate": "2021-04-30T00:00:00Z",
+            "payDate": "2021-05-14T00:00:00Z",
+            "value": 1.4556
+        },
+        {
+            "declaredDate": "2021-05-31T00:00:00Z",
+            "payDate": "2021-06-15T00:00:00Z",
+            "value": 1.9913
+        },
+        {
+            "declaredDate": "2021-06-30T00:00:00Z",
+            "payDate": "2021-07-14T00:00:00Z",
+            "value": 9.9857
+        },
+        {
+            "declaredDate": "2021-07-12T00:00:00Z",
+            "payDate": "2021-07-16T00:00:00Z",
+            "value": 9.6399
+        },
+        {
+            "declaredDate": "2021-07-30T00:00:00Z",
+            "payDate": "2021-08-13T00:00:00Z",
+            "value": 6.61531712
+        },
+        {
+            "declaredDate": "2021-08-31T00:00:00Z",
+            "payDate": "2021-09-15T00:00:00Z",
+            "value": 1.0843993
+        },
+        {
+            "declaredDate": "2021-09-30T00:00:00Z",
+            "payDate": "2021-10-15T00:00:00Z",
+            "value": 17.67102452
+        },
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-11-16T00:00:00Z",
+            "value": 76.60983406
+        },
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-11-16T00:00:00Z",
+            "value": 76.60983406
+        },
+        {
+            "declaredDate": "2021-11-30T00:00:00Z",
+            "payDate": "2021-12-14T00:00:00Z",
+            "value": 0.242328
+        },
+        {
+            "declaredDate": "2021-11-30T00:00:00Z",
+            "payDate": "2021-12-14T00:00:00Z",
+            "value": 0.332916
+        }
+    ],
+    "historical_data": []
+}

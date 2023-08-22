@@ -1,0 +1,63 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "PATB11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2019-08-14T00:00:00Z",
+            "payDate": "2019-08-21T00:00:00Z",
+            "value": 2.06832159
+        },
+        {
+            "declaredDate": "2020-03-20T00:00:00Z",
+            "payDate": "2020-03-27T00:00:00Z",
+            "value": 3.72920981
+        },
+        {
+            "declaredDate": "2020-09-23T00:00:00Z",
+            "payDate": "2020-09-30T00:00:00Z",
+            "value": 3.02926439
+        },
+        {
+            "declaredDate": "2021-03-12T00:00:00Z",
+            "payDate": "2021-03-19T00:00:00Z",
+            "value": 3.49038908
+        },
+        {
+            "declaredDate": "2021-08-16T00:00:00Z",
+            "payDate": "2021-08-23T00:00:00Z",
+            "value": 6.21345899
+        },
+        {
+            "declaredDate": "2022-02-04T00:00:00Z",
+            "payDate": "2022-02-11T00:00:00Z",
+            "value": 6.0742854
+        },
+        {
+            "declaredDate": "2022-09-23T00:00:00Z",
+            "payDate": "2022-09-30T00:00:00Z",
+            "value": 6.47302505
+        },
+        {
+            "declaredDate": "2023-03-24T00:00:00Z",
+            "payDate": "2023-03-31T00:00:00Z",
+            "value": 7.15031653
+        }
+    ],
+    "historical_data": []
+}

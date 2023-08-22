@@ -1,0 +1,163 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 88.75,
+            "dividendYield": 14.63,
+            "high": 88.95,
+            "lastPrice": 88.75,
+            "lastYearHigh": 91.94,
+            "lastYearLow": 80.5,
+            "low": 88.51,
+            "name": "Galapagos Recebiveis Imobiliarios FI Imobiliario",
+            "priceOpen": 88.68,
+            "shares": 1453859,
+            "symbol": "GCRI11",
+            "volume": 1641,
+            "volumeAvg": 2428
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2021-02-11T00:00:00Z",
+            "payDate": "2021-02-22T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2021-03-11T00:00:00Z",
+            "payDate": "2021-03-18T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2021-04-14T00:00:00Z",
+            "payDate": "2021-04-22T00:00:00Z",
+            "value": 1
+        },
+        {
+            "declaredDate": "2021-05-13T00:00:00Z",
+            "payDate": "2021-05-20T00:00:00Z",
+            "value": 1.02
+        },
+        {
+            "declaredDate": "2021-06-14T00:00:00Z",
+            "payDate": "2021-06-21T00:00:00Z",
+            "value": 0.92
+        },
+        {
+            "declaredDate": "2021-07-14T00:00:00Z",
+            "payDate": "2021-07-21T00:00:00Z",
+            "value": 1.01
+        },
+        {
+            "declaredDate": "2021-08-12T00:00:00Z",
+            "payDate": "2021-08-19T00:00:00Z",
+            "value": 1.02
+        },
+        {
+            "declaredDate": "2021-09-14T00:00:00Z",
+            "payDate": "2021-09-21T00:00:00Z",
+            "value": 1.02
+        },
+        {
+            "declaredDate": "2021-10-14T00:00:00Z",
+            "payDate": "2021-10-21T00:00:00Z",
+            "value": 1.02
+        },
+        {
+            "declaredDate": "2021-11-12T00:00:00Z",
+            "payDate": "2021-11-22T00:00:00Z",
+            "value": 1.03
+        },
+        {
+            "declaredDate": "2021-12-13T00:00:00Z",
+            "payDate": "2021-12-20T00:00:00Z",
+            "value": 1.12
+        },
+        {
+            "declaredDate": "2022-01-13T00:00:00Z",
+            "payDate": "2022-01-20T00:00:00Z",
+            "value": 1.38
+        },
+        {
+            "declaredDate": "2022-02-11T00:00:00Z",
+            "payDate": "2022-02-18T00:00:00Z",
+            "value": 1.2
+        },
+        {
+            "declaredDate": "2022-03-14T00:00:00Z",
+            "payDate": "2022-03-21T00:00:00Z",
+            "value": 1.4
+        },
+        {
+            "declaredDate": "2022-04-13T00:00:00Z",
+            "payDate": "2022-04-22T00:00:00Z",
+            "value": 1.48
+        },
+        {
+            "declaredDate": "2022-05-12T00:00:00Z",
+            "payDate": "2022-05-19T00:00:00Z",
+            "value": 1.51
+        },
+        {
+            "declaredDate": "2022-06-13T00:00:00Z",
+            "payDate": "2022-06-21T00:00:00Z",
+            "value": 1.55
+        },
+        {
+            "declaredDate": "2022-07-13T00:00:00Z",
+            "payDate": "2022-07-20T00:00:00Z",
+            "value": 1.35
+        },
+        {
+            "declaredDate": "2022-08-11T00:00:00Z",
+            "payDate": "2022-08-18T00:00:00Z",
+            "value": 1.25
+        },
+        {
+            "declaredDate": "2022-09-14T00:00:00Z",
+            "payDate": "2022-09-21T00:00:00Z",
+            "value": 1.17
+        },
+        {
+            "declaredDate": "2022-10-14T00:00:00Z",
+            "payDate": "2022-10-21T00:00:00Z",
+            "value": 1.1
+        },
+        {
+            "declaredDate": "2022-11-14T00:00:00Z",
+            "payDate": "2022-11-22T00:00:00Z",
+            "value": 1.1
+        },
+        {
+            "declaredDate": "2022-12-13T00:00:00Z",
+            "payDate": "2022-12-20T00:00:00Z",
+            "value": 1.1
+        },
+        {
+            "declaredDate": "2023-01-12T00:00:00Z",
+            "payDate": "2023-01-19T00:00:00Z",
+            "value": 1.1
+        },
+        {
+            "declaredDate": "2023-02-13T00:00:00Z",
+            "payDate": "2023-02-22T00:00:00Z",
+            "value": 1.1
+        },
+        {
+            "declaredDate": "2023-03-13T00:00:00Z",
+            "payDate": "2023-03-20T00:00:00Z",
+            "value": 1.1
+        },
+        {
+            "declaredDate": "2023-04-14T00:00:00Z",
+            "payDate": "2023-04-24T00:00:00Z",
+            "value": 1.1
+        },
+        {
+            "declaredDate": "2023-05-12T00:00:00Z",
+            "payDate": "2023-05-19T00:00:00Z",
+            "value": 1.1
+        }
+    ],
+    "historical_data": []
+}

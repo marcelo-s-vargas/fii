@@ -1,0 +1,53 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "DAMT11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2022-11-30T00:00:00Z",
+            "payDate": "2022-12-07T00:00:00Z",
+            "value": 0.08820463
+        },
+        {
+            "declaredDate": "2022-12-29T00:00:00Z",
+            "payDate": "2023-01-06T00:00:00Z",
+            "value": 0.07118079
+        },
+        {
+            "declaredDate": "2023-01-31T00:00:00Z",
+            "payDate": "2023-02-07T00:00:00Z",
+            "value": 0.153338
+        },
+        {
+            "declaredDate": "2023-02-28T00:00:00Z",
+            "payDate": "2023-03-07T00:00:00Z",
+            "value": 0.10525069
+        },
+        {
+            "declaredDate": "2023-03-31T00:00:00Z",
+            "payDate": "2023-04-10T00:00:00Z",
+            "value": 0.09663682
+        },
+        {
+            "declaredDate": "2023-04-28T00:00:00Z",
+            "payDate": "2023-05-08T00:00:00Z",
+            "value": 0.08016201
+        }
+    ],
+    "historical_data": []
+}

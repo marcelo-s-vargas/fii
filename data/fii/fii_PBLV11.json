@@ -1,0 +1,68 @@
+{
+    "fiis": [
+        {
+            "change": -100,
+            "closingPrice": 751.56,
+            "dividendYield": 8.5,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "Prologis Brazil Logistics Venture FII",
+            "priceOpen": 0,
+            "shares": 3365347,
+            "symbol": "PBLV11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2020-01-27T00:00:00Z",
+            "payDate": "2020-01-29T00:00:00Z",
+            "value": 24.55
+        },
+        {
+            "declaredDate": "2020-07-23T00:00:00Z",
+            "payDate": "2020-07-30T00:00:00Z",
+            "value": 20.27982261
+        },
+        {
+            "declaredDate": "2020-07-23T00:00:00Z",
+            "payDate": "2020-07-30T00:00:00Z",
+            "value": 23.85861484
+        },
+        {
+            "declaredDate": "2021-01-21T00:00:00Z",
+            "payDate": "2021-01-29T00:00:00Z",
+            "value": 28.18471384
+        },
+        {
+            "declaredDate": "2021-01-21T00:00:00Z",
+            "payDate": "2021-01-29T00:00:00Z",
+            "value": 28.18933674
+        },
+        {
+            "declaredDate": "2021-07-26T00:00:00Z",
+            "payDate": "2021-07-30T00:00:00Z",
+            "value": 26.3866698
+        },
+        {
+            "declaredDate": "2022-01-21T00:00:00Z",
+            "payDate": "2022-01-28T00:00:00Z",
+            "value": 36.28
+        },
+        {
+            "declaredDate": "2022-07-20T00:00:00Z",
+            "payDate": "2022-07-27T00:00:00Z",
+            "value": 33.9177688
+        },
+        {
+            "declaredDate": "2023-01-20T00:00:00Z",
+            "payDate": "2023-01-27T00:00:00Z",
+            "value": 39.191985
+        }
+    ],
+    "historical_data": []
+}

@@ -1,0 +1,203 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "DOVL11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2017-08-15T00:00:00Z",
+            "payDate": "2017-08-22T00:00:00Z",
+            "value": 0.68809723
+        },
+        {
+            "declaredDate": "2018-01-19T00:00:00Z",
+            "payDate": "2018-01-29T00:00:00Z",
+            "value": 15.64531716
+        },
+        {
+            "declaredDate": "2018-05-09T00:00:00Z",
+            "payDate": "2018-05-18T00:00:00Z",
+            "value": 17.47960683
+        },
+        {
+            "declaredDate": "2018-07-12T00:00:00Z",
+            "payDate": "2018-07-20T00:00:00Z",
+            "value": 7.00121347
+        },
+        {
+            "declaredDate": "2018-08-13T00:00:00Z",
+            "payDate": "2018-08-21T00:00:00Z",
+            "value": 2.42934685
+        },
+        {
+            "declaredDate": "2018-09-13T00:00:00Z",
+            "payDate": "2018-09-21T00:00:00Z",
+            "value": 5.81605169
+        },
+        {
+            "declaredDate": "2018-11-22T00:00:00Z",
+            "payDate": "2018-11-30T00:00:00Z",
+            "value": 12.802095
+        },
+        {
+            "declaredDate": "2018-12-18T00:00:00Z",
+            "payDate": "2018-12-28T00:00:00Z",
+            "value": 5.09154895
+        },
+        {
+            "declaredDate": "2019-01-15T00:00:00Z",
+            "payDate": "2019-01-23T00:00:00Z",
+            "value": 5.64035483
+        },
+        {
+            "declaredDate": "2019-04-15T00:00:00Z",
+            "payDate": "2019-04-24T00:00:00Z",
+            "value": 2.5622063
+        },
+        {
+            "declaredDate": "2019-05-13T00:00:00Z",
+            "payDate": "2019-05-21T00:00:00Z",
+            "value": 2.48580147
+        },
+        {
+            "declaredDate": "2019-06-17T00:00:00Z",
+            "payDate": "2019-06-25T00:00:00Z",
+            "value": 9.81399085
+        },
+        {
+            "declaredDate": "2019-07-12T00:00:00Z",
+            "payDate": "2019-07-22T00:00:00Z",
+            "value": 5.338052
+        },
+        {
+            "declaredDate": "2019-08-12T00:00:00Z",
+            "payDate": "2019-08-20T00:00:00Z",
+            "value": 2.11014514
+        },
+        {
+            "declaredDate": "2019-09-12T00:00:00Z",
+            "payDate": "2019-09-20T00:00:00Z",
+            "value": 6.29327633
+        },
+        {
+            "declaredDate": "2019-10-10T00:00:00Z",
+            "payDate": "2019-10-18T00:00:00Z",
+            "value": 8.15164573
+        },
+        {
+            "declaredDate": "2019-11-12T00:00:00Z",
+            "payDate": "2019-11-22T00:00:00Z",
+            "value": 1.30274089
+        },
+        {
+            "declaredDate": "2019-12-13T00:00:00Z",
+            "payDate": "2019-12-20T00:00:00Z",
+            "value": 11.27671123
+        },
+        {
+            "declaredDate": "2020-01-14T00:00:00Z",
+            "payDate": "2020-01-22T00:00:00Z",
+            "value": 7.98235878
+        },
+        {
+            "declaredDate": "2020-02-13T00:00:00Z",
+            "payDate": "2020-02-21T00:00:00Z",
+            "value": 4.8352847
+        },
+        {
+            "declaredDate": "2020-03-13T00:00:00Z",
+            "payDate": "2020-03-23T00:00:00Z",
+            "value": 1.29737648
+        },
+        {
+            "declaredDate": "2020-04-13T00:00:00Z",
+            "payDate": "2020-04-22T00:00:00Z",
+            "value": 3.10950105
+        },
+        {
+            "declaredDate": "2020-05-14T00:00:00Z",
+            "payDate": "2020-05-22T00:00:00Z",
+            "value": 0.67265916
+        },
+        {
+            "declaredDate": "2020-06-12T00:00:00Z",
+            "payDate": "2020-06-22T00:00:00Z",
+            "value": 0.67265329
+        },
+        {
+            "declaredDate": "2020-07-14T00:00:00Z",
+            "payDate": "2020-07-21T00:00:00Z",
+            "value": 17.2894866
+        },
+        {
+            "declaredDate": "2020-08-12T00:00:00Z",
+            "payDate": "2020-08-20T00:00:00Z",
+            "value": 8.71747705
+        },
+        {
+            "declaredDate": "2021-08-16T00:00:00Z",
+            "payDate": "2021-08-25T00:00:00Z",
+            "value": 1.1227016
+        },
+        {
+            "declaredDate": "2021-10-13T00:00:00Z",
+            "payDate": "2021-10-20T00:00:00Z",
+            "value": 6.96262067
+        },
+        {
+            "declaredDate": "2021-10-18T00:00:00Z",
+            "payDate": "2021-10-25T00:00:00Z",
+            "value": 0.85575935
+        },
+        {
+            "declaredDate": "2021-11-12T00:00:00Z",
+            "payDate": "2021-11-22T00:00:00Z",
+            "value": 0.29781306
+        },
+        {
+            "declaredDate": "2022-01-13T00:00:00Z",
+            "payDate": "2022-01-20T00:00:00Z",
+            "value": 0.26937715
+        },
+        {
+            "declaredDate": "2022-07-14T00:00:00Z",
+            "payDate": "2022-07-21T00:00:00Z",
+            "value": 26.23229294
+        },
+        {
+            "declaredDate": "2023-01-16T00:00:00Z",
+            "payDate": "2023-01-23T00:00:00Z",
+            "value": 30.21033514
+        },
+        {
+            "declaredDate": "2023-03-13T00:00:00Z",
+            "payDate": "2023-03-20T00:00:00Z",
+            "value": 5.1200187
+        },
+        {
+            "declaredDate": "2023-04-14T00:00:00Z",
+            "payDate": "2023-04-20T00:00:00Z",
+            "value": 5.51101014
+        },
+        {
+            "declaredDate": "2023-05-12T00:00:00Z",
+            "payDate": "2023-05-19T00:00:00Z",
+            "value": 4.24975327
+        }
+    ],
+    "historical_data": []
+}

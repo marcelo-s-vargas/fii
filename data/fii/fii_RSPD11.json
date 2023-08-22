@@ -1,0 +1,63 @@
+{
+    "fiis": [
+        {
+            "change": 10.3,
+            "closingPrice": 1019.93,
+            "dividendYield": 4.63,
+            "high": 0,
+            "lastPrice": 1125,
+            "lastYearHigh": 1039.83,
+            "lastYearLow": 1039.83,
+            "low": 0,
+            "name": "RB Capital Desenvolvimento Residencial III - FII",
+            "priceOpen": 0,
+            "shares": 25000,
+            "symbol": "RSPD11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-11-16T00:00:00Z",
+            "value": 11.09508117
+        },
+        {
+            "declaredDate": "2021-12-30T00:00:00Z",
+            "payDate": "2022-01-14T00:00:00Z",
+            "value": 13.25089732
+        },
+        {
+            "declaredDate": "2022-12-29T00:00:00Z",
+            "payDate": "2023-01-13T00:00:00Z",
+            "value": 35.03097087
+        },
+        {
+            "declaredDate": "2022-12-29T00:00:00Z",
+            "payDate": "2023-01-13T00:00:00Z",
+            "value": 8.58996987
+        },
+        {
+            "declaredDate": "2023-01-31T00:00:00Z",
+            "payDate": "2023-02-14T00:00:00Z",
+            "value": 7.19905739
+        },
+        {
+            "declaredDate": "2023-02-28T00:00:00Z",
+            "payDate": "2023-03-14T00:00:00Z",
+            "value": 8.3704501
+        },
+        {
+            "declaredDate": "2023-02-28T00:00:00Z",
+            "payDate": "2023-03-14T00:00:00Z",
+            "value": 8.38864245
+        },
+        {
+            "declaredDate": "2023-03-31T00:00:00Z",
+            "payDate": "2023-04-17T00:00:00Z",
+            "value": 20.13274188
+        }
+    ],
+    "historical_data": []
+}

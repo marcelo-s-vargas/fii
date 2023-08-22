@@ -1,0 +1,28 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 935.66,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 935.66,
+            "lastYearHigh": 935.66,
+            "lastYearLow": 935.66,
+            "low": 0,
+            "name": "CF2 Fundo de Investimento Imobiliario Closed Fund",
+            "priceOpen": 0,
+            "shares": 66220,
+            "symbol": "CFHI11",
+            "volume": 0,
+            "volumeAvg": 23
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2021-07-15T00:00:00Z",
+            "payDate": "2021-07-22T00:00:00Z",
+            "value": 36.51139
+        }
+    ],
+    "historical_data": []
+}

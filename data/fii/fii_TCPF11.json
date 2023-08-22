@@ -1,0 +1,108 @@
+{
+    "fiis": [
+        {
+            "change": -100,
+            "closingPrice": 48.41,
+            "dividendYield": 1704.76,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "Treecorp Real Estate FII-I",
+            "priceOpen": 0,
+            "shares": 297327,
+            "symbol": "TCPF11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2020-01-07T00:00:00Z",
+            "payDate": "2020-01-15T00:00:00Z",
+            "value": 1.8
+        },
+        {
+            "declaredDate": "2021-06-10T00:00:00Z",
+            "payDate": "2021-06-18T00:00:00Z",
+            "value": 12.46
+        },
+        {
+            "declaredDate": "2021-07-06T00:00:00Z",
+            "payDate": "2021-07-14T00:00:00Z",
+            "value": 3.19
+        },
+        {
+            "declaredDate": "2022-02-04T00:00:00Z",
+            "payDate": "2022-02-14T00:00:00Z",
+            "value": 1.86
+        },
+        {
+            "declaredDate": "2022-05-05T00:00:00Z",
+            "payDate": "2022-05-13T00:00:00Z",
+            "value": 0.24
+        },
+        {
+            "declaredDate": "2022-06-06T00:00:00Z",
+            "payDate": "2022-06-14T00:00:00Z",
+            "value": 3.44
+        },
+        {
+            "declaredDate": "2022-07-06T00:00:00Z",
+            "payDate": "2022-07-14T00:00:00Z",
+            "value": 1.7
+        },
+        {
+            "declaredDate": "2022-08-04T00:00:00Z",
+            "payDate": "2022-08-12T00:00:00Z",
+            "value": 1.61
+        },
+        {
+            "declaredDate": "2022-09-06T00:00:00Z",
+            "payDate": "2022-09-15T00:00:00Z",
+            "value": 1.82
+        },
+        {
+            "declaredDate": "2022-10-06T00:00:00Z",
+            "payDate": "2022-10-17T00:00:00Z",
+            "value": 2.22
+        },
+        {
+            "declaredDate": "2022-11-07T00:00:00Z",
+            "payDate": "2022-11-16T00:00:00Z",
+            "value": 2.3
+        },
+        {
+            "declaredDate": "2022-12-06T00:00:00Z",
+            "payDate": "2022-12-14T00:00:00Z",
+            "value": 2.29
+        },
+        {
+            "declaredDate": "2023-01-05T00:00:00Z",
+            "payDate": "2023-01-13T00:00:00Z",
+            "value": 1.94
+        },
+        {
+            "declaredDate": "2023-02-06T00:00:00Z",
+            "payDate": "2023-02-14T00:00:00Z",
+            "value": 1.56
+        },
+        {
+            "declaredDate": "2023-03-06T00:00:00Z",
+            "payDate": "2023-03-14T00:00:00Z",
+            "value": 1.23
+        },
+        {
+            "declaredDate": "2023-04-06T00:00:00Z",
+            "payDate": "2023-04-17T00:00:00Z",
+            "value": 1.16
+        },
+        {
+            "declaredDate": "2023-05-05T00:00:00Z",
+            "payDate": "2023-05-15T00:00:00Z",
+            "value": 1.42
+        }
+    ],
+    "historical_data": []
+}

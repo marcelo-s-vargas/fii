@@ -1,0 +1,68 @@
+{
+    "fiis": [
+        {
+            "change": -100,
+            "closingPrice": 156.7,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 203.32,
+            "lastYearLow": 203.32,
+            "low": 0,
+            "name": "Sao Domingos Fundo Investimento Imobiliario",
+            "priceOpen": 0,
+            "shares": 648776,
+            "symbol": "FISD11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2021-09-09T00:00:00Z",
+            "payDate": "2021-09-17T00:00:00Z",
+            "value": 3.72929652
+        },
+        {
+            "declaredDate": "2021-10-20T00:00:00Z",
+            "payDate": "2021-10-27T00:00:00Z",
+            "value": 6.5262689
+        },
+        {
+            "declaredDate": "2021-10-20T00:00:00Z",
+            "payDate": "2021-10-27T00:00:00Z",
+            "value": 6.5262689
+        },
+        {
+            "declaredDate": "2021-11-26T00:00:00Z",
+            "payDate": "2021-12-03T00:00:00Z",
+            "value": 4.66162064
+        },
+        {
+            "declaredDate": "2022-02-22T00:00:00Z",
+            "payDate": "2022-03-03T00:00:00Z",
+            "value": 11.18788955
+        },
+        {
+            "declaredDate": "2022-05-04T00:00:00Z",
+            "payDate": "2022-05-11T00:00:00Z",
+            "value": 1.86464826
+        },
+        {
+            "declaredDate": "2022-06-23T00:00:00Z",
+            "payDate": "2022-06-30T00:00:00Z",
+            "value": 5.59394478
+        },
+        {
+            "declaredDate": "2022-08-23T00:00:00Z",
+            "payDate": "2022-08-30T00:00:00Z",
+            "value": 5.59394478
+        },
+        {
+            "declaredDate": "2023-04-25T00:00:00Z",
+            "payDate": "2023-05-03T00:00:00Z",
+            "value": 7.45859303
+        }
+    ],
+    "historical_data": []
+}

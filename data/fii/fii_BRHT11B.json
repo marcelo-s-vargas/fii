@@ -1,0 +1,28 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "FII BRHOTEISCI EA MB",
+            "priceOpen": 0,
+            "shares": 1841677,
+            "symbol": "BRHT11B",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2023-02-09T00:00:00Z",
+            "payDate": "2023-02-16T00:00:00Z",
+            "value": 5.42983379
+        }
+    ],
+    "historical_data": []
+}

@@ -1,0 +1,95 @@
+{
+    "fiis": [
+        {
+            "change": 12.78,
+            "closingPrice": 994.01,
+            "dividendYield": 30.53,
+            "high": 0,
+            "lastPrice": 1121,
+            "lastYearHigh": 999.84,
+            "lastYearLow": 626.95,
+            "low": 0,
+            "name": "RB Capital TFO Situs FI Imobiliario - FII",
+            "priceOpen": 0,
+            "shares": 56525,
+            "symbol": "RBTS11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2021-10-29T00:00:00Z",
+            "payDate": "2021-11-16T00:00:00Z",
+            "value": 36.33721592
+        },
+        {
+            "declaredDate": "2021-12-30T00:00:00Z",
+            "payDate": "2022-01-14T00:00:00Z",
+            "value": 23.36111791
+        },
+        {
+            "declaredDate": "2022-09-30T00:00:00Z",
+            "payDate": "2022-10-17T00:00:00Z",
+            "value": 66.34595878
+        },
+        {
+            "declaredDate": "2022-11-30T00:00:00Z",
+            "payDate": "2022-12-14T00:00:00Z",
+            "value": 47.15609714
+        },
+        {
+            "declaredDate": "2022-11-30T00:00:00Z",
+            "payDate": "2022-12-14T00:00:00Z",
+            "value": 133.04359821
+        },
+        {
+            "declaredDate": "2022-12-29T00:00:00Z",
+            "payDate": "2023-01-13T00:00:00Z",
+            "value": 150.37593985
+        },
+        {
+            "declaredDate": "2023-01-31T00:00:00Z",
+            "payDate": "2023-02-14T00:00:00Z",
+            "value": 4.9871073
+        },
+        {
+            "declaredDate": "2023-01-31T00:00:00Z",
+            "payDate": "2023-02-14T00:00:00Z",
+            "value": 7.93335533
+        },
+        {
+            "declaredDate": "2023-02-28T00:00:00Z",
+            "payDate": "2023-03-14T00:00:00Z",
+            "value": 17.08451942
+        },
+        {
+            "declaredDate": "2023-03-31T00:00:00Z",
+            "payDate": "2023-04-17T00:00:00Z",
+            "value": 30.64217143
+        },
+        {
+            "declaredDate": "2023-04-28T00:00:00Z",
+            "payDate": "2023-05-15T00:00:00Z",
+            "value": 22.99867315
+        }
+    ],
+    "historical_data": [
+        {
+            "close": 1049.98,
+            "date": "2022-09-20T00:00:00Z",
+            "high": 1049.98,
+            "low": 1049.98,
+            "open": 1049.98,
+            "volume": 100
+        },
+        {
+            "close": 1121,
+            "date": "2023-01-10T00:00:00Z",
+            "high": 1121,
+            "low": 1121,
+            "open": 1121,
+            "volume": 20
+        }
+    ]
+}

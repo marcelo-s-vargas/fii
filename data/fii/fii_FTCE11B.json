@@ -1,0 +1,152 @@
+{
+    "fiis": [
+        {
+            "change": 4.05,
+            "closingPrice": 2787.93,
+            "dividendYield": 4.27,
+            "high": 0,
+            "lastPrice": 2900.89,
+            "lastYearHigh": 3150,
+            "lastYearLow": 2789.92,
+            "low": 0,
+            "name": "FII OPPORTUNCI MB",
+            "priceOpen": 0,
+            "shares": 876521,
+            "symbol": "FTCE11B",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2016-07-22T00:00:00Z",
+            "payDate": "2016-07-29T00:00:00Z",
+            "value": 60.4864403
+        },
+        {
+            "declaredDate": "2016-12-14T00:00:00Z",
+            "payDate": "2016-12-21T00:00:00Z",
+            "value": 240.48896725
+        },
+        {
+            "declaredDate": "2018-01-22T00:00:00Z",
+            "payDate": "2018-01-30T00:00:00Z",
+            "value": 124.64320349
+        },
+        {
+            "declaredDate": "2018-07-23T00:00:00Z",
+            "payDate": "2018-07-31T00:00:00Z",
+            "value": 25.26425026
+        },
+        {
+            "declaredDate": "2019-01-31T00:00:00Z",
+            "payDate": "2019-02-20T00:00:00Z",
+            "value": 49.23200395
+        },
+        {
+            "declaredDate": "2019-07-30T00:00:00Z",
+            "payDate": "2019-08-19T00:00:00Z",
+            "value": 79.05393682
+        },
+        {
+            "declaredDate": "2019-12-03T00:00:00Z",
+            "payDate": "2019-12-04T00:00:00Z",
+            "value": 164.6649322
+        },
+        {
+            "declaredDate": "2020-12-14T00:00:00Z",
+            "payDate": "2020-12-21T00:00:00Z",
+            "value": 141.09474582
+        },
+        {
+            "declaredDate": "2020-12-14T00:00:00Z",
+            "payDate": "2020-12-21T00:00:00Z",
+            "value": 111
+        },
+        {
+            "declaredDate": "2020-12-14T00:00:00Z",
+            "payDate": "2020-12-21T00:00:00Z",
+            "value": 29.38993671
+        },
+        {
+            "declaredDate": "2021-02-22T00:00:00Z",
+            "payDate": "2021-03-01T00:00:00Z",
+            "value": 77.42033689
+        },
+        {
+            "declaredDate": "2021-08-16T00:00:00Z",
+            "payDate": "2021-08-25T00:00:00Z",
+            "value": 93.89053553
+        },
+        {
+            "declaredDate": "2022-01-21T00:00:00Z",
+            "payDate": "2022-01-28T00:00:00Z",
+            "value": 70.29031922
+        },
+        {
+            "declaredDate": "2022-04-29T00:00:00Z",
+            "payDate": "2022-05-06T00:00:00Z",
+            "value": 98.30341134
+        },
+        {
+            "declaredDate": "2022-08-15T00:00:00Z",
+            "payDate": "2022-08-31T00:00:00Z",
+            "value": 37.62888623
+        },
+        {
+            "declaredDate": "2023-02-06T00:00:00Z",
+            "payDate": "2023-02-28T00:00:00Z",
+            "value": 86.12324591
+        }
+    ],
+    "historical_data": [
+        {
+            "close": 2789.92,
+            "date": "2022-08-23T00:00:00Z",
+            "high": 2789.92,
+            "low": 2789.92,
+            "open": 2789.92,
+            "volume": 65
+        },
+        {
+            "close": 2789.92,
+            "date": "2022-08-24T00:00:00Z",
+            "high": 2789.92,
+            "low": 2789.92,
+            "open": 2789.92,
+            "volume": 67
+        },
+        {
+            "close": 2789.92,
+            "date": "2022-09-08T00:00:00Z",
+            "high": 2789.92,
+            "low": 2789.92,
+            "open": 2789.92,
+            "volume": 8
+        },
+        {
+            "close": 2869.02,
+            "date": "2022-12-22T00:00:00Z",
+            "high": 2869.02,
+            "low": 2869.02,
+            "open": 2869.02,
+            "volume": 138
+        },
+        {
+            "close": 2870,
+            "date": "2023-01-12T00:00:00Z",
+            "high": 2870,
+            "low": 2870,
+            "open": 2870,
+            "volume": 1663
+        },
+        {
+            "close": 2900.89,
+            "date": "2023-05-17T00:00:00Z",
+            "high": 3150,
+            "low": 2900.89,
+            "open": 3150,
+            "volume": 5
+        }
+    ]
+}

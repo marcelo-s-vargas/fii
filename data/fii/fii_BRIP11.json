@@ -1,0 +1,28 @@
+{
+    "fiis": [
+        {
+            "change": 1.64,
+            "closingPrice": 934.68,
+            "dividendYield": 12.24,
+            "high": 0,
+            "lastPrice": 950.01,
+            "lastYearHigh": 1131.52,
+            "lastYearLow": 881.5,
+            "low": 0,
+            "name": "Brio Real Estate III FII",
+            "priceOpen": 0,
+            "shares": 206474,
+            "symbol": "BRIP11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2023-02-07T00:00:00Z",
+            "payDate": "2023-02-16T00:00:00Z",
+            "value": 107
+        }
+    ],
+    "historical_data": []
+}

@@ -1,0 +1,22 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 8.2,
+            "dividendYield": 0,
+            "high": 9.2,
+            "lastPrice": 8.2,
+            "lastYearHigh": 18,
+            "lastYearLow": 8.2,
+            "low": 8.2,
+            "name": "Energy Resort Fundo de Investimento Imobiliario Closed Fund",
+            "priceOpen": 8.28,
+            "shares": 745557,
+            "symbol": "EGYR11",
+            "volume": 1012,
+            "volumeAvg": 1909
+        }
+    ],
+    "dividends": [],
+    "historical_data": []
+}

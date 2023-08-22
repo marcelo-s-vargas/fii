@@ -1,0 +1,22 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 0,
+            "dividendYield": 0,
+            "high": 0,
+            "lastPrice": 0,
+            "lastYearHigh": 0,
+            "lastYearLow": 0,
+            "low": 0,
+            "name": "#N/A",
+            "priceOpen": 0,
+            "shares": 0,
+            "symbol": "RBPD11",
+            "volume": 0,
+            "volumeAvg": 0
+        }
+    ],
+    "dividends": [],
+    "historical_data": []
+}

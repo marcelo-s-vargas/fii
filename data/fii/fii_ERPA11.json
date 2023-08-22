@@ -1,0 +1,93 @@
+{
+    "fiis": [
+        {
+            "change": 0,
+            "closingPrice": 119,
+            "dividendYield": 7.02,
+            "high": 0,
+            "lastPrice": 119,
+            "lastYearHigh": 130.63,
+            "lastYearLow": 102.63,
+            "low": 0,
+            "name": "Europa 105 - Fundo de Investimento Imobiliario",
+            "priceOpen": 0,
+            "shares": 500922,
+            "symbol": "ERPA11",
+            "volume": 0,
+            "volumeAvg": 74
+        }
+    ],
+    "dividends": [
+        {
+            "declaredDate": "2022-04-07T00:00:00Z",
+            "payDate": "2022-04-14T00:00:00Z",
+            "value": 0.22860483
+        },
+        {
+            "declaredDate": "2022-05-06T00:00:00Z",
+            "payDate": "2022-05-13T00:00:00Z",
+            "value": 0.30599358
+        },
+        {
+            "declaredDate": "2022-06-07T00:00:00Z",
+            "payDate": "2022-06-14T00:00:00Z",
+            "value": 0.28063055
+        },
+        {
+            "declaredDate": "2022-07-07T00:00:00Z",
+            "payDate": "2022-07-14T00:00:00Z",
+            "value": 0.26783031
+        },
+        {
+            "declaredDate": "2022-08-05T00:00:00Z",
+            "payDate": "2022-08-12T00:00:00Z",
+            "value": 0.65879133
+        },
+        {
+            "declaredDate": "2022-09-08T00:00:00Z",
+            "payDate": "2022-09-15T00:00:00Z",
+            "value": 0.69594085
+        },
+        {
+            "declaredDate": "2022-10-07T00:00:00Z",
+            "payDate": "2022-10-17T00:00:00Z",
+            "value": 0.68956321
+        },
+        {
+            "declaredDate": "2022-11-08T00:00:00Z",
+            "payDate": "2022-11-16T00:00:00Z",
+            "value": 0.67969902
+        },
+        {
+            "declaredDate": "2022-12-07T00:00:00Z",
+            "payDate": "2022-12-14T00:00:00Z",
+            "value": 0.69815354
+        },
+        {
+            "declaredDate": "2023-01-06T00:00:00Z",
+            "payDate": "2023-01-13T00:00:00Z",
+            "value": 0.69590699
+        },
+        {
+            "declaredDate": "2023-02-07T00:00:00Z",
+            "payDate": "2023-02-14T00:00:00Z",
+            "value": 0.69434804
+        },
+        {
+            "declaredDate": "2023-03-07T00:00:00Z",
+            "payDate": "2023-03-14T00:00:00Z",
+            "value": 0.65700568
+        },
+        {
+            "declaredDate": "2023-04-10T00:00:00Z",
+            "payDate": "2023-04-17T00:00:00Z",
+            "value": 0.72194905
+        },
+        {
+            "declaredDate": "2023-05-08T00:00:00Z",
+            "payDate": "2023-05-15T00:00:00Z",
+            "value": 0.72057356
+        }
+    ],
+    "historical_data": []
+}
