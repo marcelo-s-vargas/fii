@@ -1,0 +1,44 @@
+
+		<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+			<head>
+				<script>
+					window['dataLayer'] = window['dataLayer'] || [];
+					window['dataLayer'].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+				</script>
+				<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N4GS4P"></script>
+				<meta name="Excel Workbook Frameset">
+				<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+				<meta name=ProgId content=Excel.Sheet>
+				<meta name=Generator content="Microsoft Excel 9">
+				<!--[if gte mso 9]>
+				<xml>
+					<x:ExcelWorkbook>
+						<x:ExcelWorksheets>
+						
+							<x:ExcelWorksheet>
+								<x:Name>Capa</x:Name>
+								<x:WorksheetSource HRef="http://bvmf.bmfbovespa.com.br/SIG/FormConsultaResumosExcel_files/FormConsultaCapaExcel.asp?strSocEmissora=ARXD&strDtReferencia=03-2023&strIdioma=P"/>
+							</x:ExcelWorksheet>
+							
+							<x:ExcelWorksheet>
+								<x:Name>Resumo das Negociações</x:Name>
+								<x:WorksheetSource HRef="http://bvmf.bmfbovespa.com.br/SIG/FormConsultaResumosExcel_files/FormConsultaNegociacoesExcel.asp?strTipoResumo=RES_NEGOCIACOES_0&intCodCtrl=110&strSocEmissora=ARXD&strDtReferencia=03-2023&strIdioma=P"/>
+							</x:ExcelWorksheet>
+							
+						</x:ExcelWorksheets>
+						<x:WindowHeight>9000</x:WindowHeight>
+						<x:WindowWidth>10000</x:WindowWidth>
+						<x:WindowTopX>0</x:WindowTopX>
+						<x:WindowTopY>0</x:WindowTopY>
+						<x:TabRatio>850</x:TabRatio>
+						<x:ProtectStructure>False</x:ProtectStructure>
+						<x:ProtectWindows>False</x:ProtectWindows>
+						<x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:ExcelWorkbook>
+					
+				</xml>
+				<![endif]-->
+			</head>
+		</html>
+		
